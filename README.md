@@ -2,4 +2,4 @@
 
 ## publisher's page : https://www.nature.com/articles/s41523-022-00438-6
 
-![Qiita]()
+![](https://github.com/KoheiKumegawa/scCA_BC_2022/blob/main/figure1.png)
