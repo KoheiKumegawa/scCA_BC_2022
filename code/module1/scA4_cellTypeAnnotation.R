@@ -170,3 +170,5 @@ lapply(names(DAR_gr), function(x){
 #----- epithelial cell id
 epiCellNames <- arc$cellNames[arc$cellType == "Ep"]
 saveRDS(epiCellNames, "rds/epiCellNames.rds")
+
+saveRDS(arc, "rds/arc2.rds")
