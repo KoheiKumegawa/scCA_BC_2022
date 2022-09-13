@@ -8,7 +8,7 @@
 ### R codes
 module1 : scATAC analysis for total cells  
 module2 : scRNA analysis (reanalysis for data of Pal et al.)  
-module3 : scATAC CNA analysis  
-module4 : scATAC analysis for cancer cell
+module3 : scATAC analysis for cancer cell  
+module4 : scATAC CNA analysis  
 
 ![](https://github.com/KoheiKumegawa/scCA_BC_2022/blob/main/figure1.png)
